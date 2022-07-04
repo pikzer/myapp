@@ -7,4 +7,7 @@ public class X {
     public static void ee (){
 
     }
+    private static void ee (){
+
+    }
 }
