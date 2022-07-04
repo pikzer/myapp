@@ -7,5 +7,10 @@ public class X {
 
         System.out.print("Operation XXX");
 
+        // Git merge
+
+        //:wqt!
+
+
     }
 }
